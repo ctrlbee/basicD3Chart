@@ -1,0 +1,110 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2015-10-17T22:37:57Z",
+  "lang": "en-US",
+  "results": {
+   "channel": {
+    "title": "Yahoo! Weather - San Francisco, CA",
+    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/San_Francisco__CA/*http://weather.yahoo.com/forecast/USCA0987_f.html",
+    "description": "Yahoo! Weather for San Francisco, CA",
+    "language": "en-us",
+    "lastBuildDate": "Sat, 17 Oct 2015 3:24 pm PDT",
+    "ttl": "60",
+    "location": {
+     "city": "San Francisco",
+     "country": "United States",
+     "region": "CA"
+    },
+    "units": {
+     "distance": "mi",
+     "pressure": "in",
+     "speed": "mph",
+     "temperature": "F"
+    },
+    "wind": {
+     "chill": "70",
+     "direction": "260",
+     "speed": "14"
+    },
+    "atmosphere": {
+     "humidity": "68",
+     "pressure": "29.96",
+     "rising": "0",
+     "visibility": "10"
+    },
+    "astronomy": {
+     "sunrise": "7:18 am",
+     "sunset": "6:28 pm"
+    },
+    "image": {
+     "title": "Yahoo! Weather",
+     "width": "142",
+     "height": "18",
+     "link": "http://weather.yahoo.com",
+     "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+    },
+    "item": {
+     "title": "Conditions for San Francisco, CA at 3:24 pm PDT",
+     "lat": "37.75",
+     "long": "-122.44",
+     "link": "http://us.rd.yahoo.com/dailynews/rss/weather/San_Francisco__CA/*http://weather.yahoo.com/forecast/USCA0987_f.html",
+     "pubDate": "Sat, 17 Oct 2015 3:24 pm PDT",
+     "condition": {
+      "code": "28",
+      "date": "Sat, 17 Oct 2015 3:24 pm PDT",
+      "temp": "70",
+      "text": "Mostly Cloudy"
+     },
+     "description": "\n<img src=\"http://l.yimg.com/a/i/us/we/52/28.gif\"/><br />\n<b>Current Conditions:</b><br />\nMostly Cloudy, 70 F<BR />\n<BR /><b>Forecast:</b><BR />\nSat - Mostly Cloudy. High: 66 Low: 58<br />\nSun - Partly Cloudy. High: 66 Low: 58<br />\nMon - Sunny. High: 70 Low: 56<br />\nTue - Partly Cloudy. High: 75 Low: 60<br />\nWed - Sunny. High: 74 Low: 57<br />\n<br />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/San_Francisco__CA/*http://weather.yahoo.com/forecast/USCA0987_f.html\">Full Forecast at Yahoo! Weather</a><BR/><BR/>\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)<br/>\n",
+     "forecast": [
+      {
+       "code": "28",
+       "date": "17 Oct 2015",
+       "day": "Sat",
+       "high": "66",
+       "low": "58",
+       "text": "Mostly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "18 Oct 2015",
+       "day": "Sun",
+       "high": "66",
+       "low": "58",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "32",
+       "date": "19 Oct 2015",
+       "day": "Mon",
+       "high": "70",
+       "low": "56",
+       "text": "Sunny"
+      },
+      {
+       "code": "30",
+       "date": "20 Oct 2015",
+       "day": "Tue",
+       "high": "75",
+       "low": "60",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "32",
+       "date": "21 Oct 2015",
+       "day": "Wed",
+       "high": "74",
+       "low": "57",
+       "text": "Sunny"
+      }
+     ],
+     "guid": {
+      "isPermaLink": "false",
+      "content": "USCA0987_2015_10_21_7_00_PDT"
+     }
+    }
+   }
+  }
+ }
+}

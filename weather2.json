@@ -1,0 +1,110 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2015-10-17T22:39:09Z",
+  "lang": "en-US",
+  "results": {
+   "channel": {
+    "title": "Yahoo! Weather - Melbourne, AU",
+    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Melbourne__AU/*http://weather.yahoo.com/forecast/ASXX0075_f.html",
+    "description": "Yahoo! Weather for Melbourne, AU",
+    "language": "en-us",
+    "lastBuildDate": "Sun, 18 Oct 2015 8:58 am AEDT",
+    "ttl": "60",
+    "location": {
+     "city": "Melbourne",
+     "country": "Australia",
+     "region": "VIC"
+    },
+    "units": {
+     "distance": "mi",
+     "pressure": "in",
+     "speed": "mph",
+     "temperature": "F"
+    },
+    "wind": {
+     "chill": "57",
+     "direction": "160",
+     "speed": "10"
+    },
+    "atmosphere": {
+     "humidity": "67",
+     "pressure": "30.39",
+     "rising": "0",
+     "visibility": "6.21"
+    },
+    "astronomy": {
+     "sunrise": "6:31 am",
+     "sunset": "7:38 pm"
+    },
+    "image": {
+     "title": "Yahoo! Weather",
+     "width": "142",
+     "height": "18",
+     "link": "http://weather.yahoo.com",
+     "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+    },
+    "item": {
+     "title": "Conditions for Melbourne, AU at 8:58 am AEDT",
+     "lat": "-37.87",
+     "long": "145.1",
+     "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Melbourne__AU/*http://weather.yahoo.com/forecast/ASXX0075_f.html",
+     "pubDate": "Sun, 18 Oct 2015 8:58 am AEDT",
+     "condition": {
+      "code": "28",
+      "date": "Sun, 18 Oct 2015 8:58 am AEDT",
+      "temp": "57",
+      "text": "Mostly Cloudy"
+     },
+     "description": "\n<img src=\"http://l.yimg.com/a/i/us/we/52/28.gif\"/><br />\n<b>Current Conditions:</b><br />\nMostly Cloudy, 57 F<BR />\n<BR /><b>Forecast:</b><BR />\nSun - Partly Cloudy. High: 69 Low: 47<br />\nMon - Sunny. High: 85 Low: 59<br />\nTue - Mostly Cloudy. High: 84 Low: 60<br />\nWed - AM Light Rain. High: 64 Low: 53<br />\nThu - Partly Cloudy. High: 67 Low: 49<br />\n<br />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Melbourne__AU/*http://weather.yahoo.com/forecast/ASXX0075_f.html\">Full Forecast at Yahoo! Weather</a><BR/><BR/>\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)<br/>\n",
+     "forecast": [
+      {
+       "code": "30",
+       "date": "18 Oct 2015",
+       "day": "Sun",
+       "high": "69",
+       "low": "47",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "32",
+       "date": "19 Oct 2015",
+       "day": "Mon",
+       "high": "85",
+       "low": "59",
+       "text": "Sunny"
+      },
+      {
+       "code": "28",
+       "date": "20 Oct 2015",
+       "day": "Tue",
+       "high": "84",
+       "low": "60",
+       "text": "Mostly Cloudy"
+      },
+      {
+       "code": "11",
+       "date": "21 Oct 2015",
+       "day": "Wed",
+       "high": "64",
+       "low": "53",
+       "text": "AM Light Rain"
+      },
+      {
+       "code": "30",
+       "date": "22 Oct 2015",
+       "day": "Thu",
+       "high": "67",
+       "low": "49",
+       "text": "Partly Cloudy"
+      }
+     ],
+     "guid": {
+      "isPermaLink": "false",
+      "content": "ASXX0075_2015_10_22_7_00_AEDT"
+     }
+    }
+   }
+  }
+ }
+}
