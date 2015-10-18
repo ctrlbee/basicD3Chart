@@ -31,30 +31,6 @@ var chart = d3.selectAll('div').data(data);
 };
 
 
-// $('.bar').click(function() {
-//     update(temps3);
-// });
-
-
-// d3.csv('data.csv', function (csv) {
-//     // Sort the data
-//     csv.sort(function (a, b) {
-//         return b.population - a.population;
-//     });
-
-//     // Create the marks with an initial position
-//     svg.selectAll('circle').data(csv).enter()
-//         .append('circle')
-//         .attr('cx', function (d) {return x(0);})
-//         .attr('cy', function (d) {return y(0);})
-//         .attr ('r', function (d) {return r(0);})
-
-//         .style('fill', function(d) { return c(d.continent);})
-//         .style('opacity', function(d) { return o(+d.GDPcap);})
-//         .append('title')
-//         .text(function(d) {return d.country;})
-// });
-
 
 
 
